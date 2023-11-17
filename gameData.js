@@ -76,7 +76,7 @@ canvas.style = "width:" + canvas.width * scr_ratio + "px;" +
 const img = {};
 img.room2 = new Image();
 img.room2.crossOrigin = "Anonymous";
-img.room2.src = 'room4.png';
+img.room2.src = 'images/room4.png';
 
 const ctr = {}
 window.addEventListener("keydown", function(event){
